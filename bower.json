@@ -1,0 +1,29 @@
+{
+  "name": "react-woodduck",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "dist/react-woodduck.min.js",
+  "homepage": "https://github.com/lauherkcambria/react-woodduck",
+  "authors": [
+    "keith lauher"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
